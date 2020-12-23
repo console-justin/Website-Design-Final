@@ -1,0 +1,239 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+    width: 1240px;
+	background-color: #2e2e2e;
+}
+
+body {
+    background-color: #2e2e2e;
+}
+
+h2 {
+    font-family: Calibri;
+    color: #156920;
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 30px;
+    transform: scale(0.59,0.59);
+    text-align: center;
+    float: none;
+    padding-top: 20px;
+}
+
+#bar {
+    text-align: center;
+    background-color: #FFFFFF;
+    width: 1245px;
+    height: 64px;
+	margin-bottom: 50px;
+}
+
+#both {
+    width: 1245px;
+    padding-bottom: 40px;
+}
+#left {
+    float: left;
+	position: relative;
+ 	text-align: center;
+}
+#right {
+    float: right;
+	position: relative;
+ 	text-align: center;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family: Calibri;
+    color: #000000;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    text-decoration: underline;
+	float: left;
+}
+.bottom-left {
+    position: absolute;
+    font-family: Calibri;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 100px;
+    margin-left: 20px;
+    text-align: left;
+	float: left;
+}
+
+.top-right {
+	position: absolute;
+	font-family: Calibri;
+	color: #000000;
+	font-size: 52px;
+	font-weight: 700;
+	line-height: 30px;
+	float: right;
+	top: 40px;
+    right: 190px;
+}
+
+.bottom-right {
+	position: absolute;
+	font-family: Calibri;
+	color: #000000;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 30px;
+	text-align: center;
+	float: right;
+	top: 110px;
+	right: 45px;
+	
+}
+
+#footer {
+	text-align: center;
+}
+
+#about {
+    background-color: #FFFFFF;
+    width: 1245px;
+    height: 350px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 24px;
+    text-indent: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+#wolves {
+	background-color: #FFFFFF;
+    width: 1245px;
+    height: 315px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+	padding-left: 10px;
+}
+
+#wolf {
+    float: left;
+    padding-right: 20px;
+}
+
+h3 {
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    padding-right: 20px;
+}
+
+#wolves2 {
+	background-color: #FFFFFF;
+    width: 1245px;
+    height: 368px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+	padding-left: 10px;
+}
+
+#wolf2 {
+    float: left;
+    padding-right: 20px;
+}
+
+#contact {
+	background-color: #FFFFFF;
+    width: 1245px;
+    height: 390px;
+	padding-bottom: 10px;
+}
+
+h4 {
+	font-weight: 300;
+    line-height: 50px;
+	font-size: 20px;
+    text-align: left;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+h5{
+	font-weight: 400;
+    line-height: 50px;
+	font-size: 30px;
+    text-align: left;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 30px;
+}
+
+#center {
+	text-align: center;
+}
+
+#donate {
+	background-color: #FFFFFF;
+    width: 1245px;
+    height: 310px;
+	margin-bottom: 60px;
+}
+
+#donate2 {
+	background-color: #FFFFFF;
+    width: 1245px;
+    height: 290px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+}
+
+#wolfpass {
+	float: left;
+    padding-left: 100px;
+	padding-right: 25px;
+}
+
+h6 {
+	font-weight: 300;
+    line-height: 50px;
+	font-size: 20px;
+    text-align: left;
+	padding-right: 100px;
+	padding-top: 100px;
+}
+#buttonleft {
+  	display: block;
+  	width: 60%;
+  	border: none;
+  	background-color: #D8D8D8;
+  	padding: 14px 28px;
+  	font-size: 16px;
+  	cursor: pointer;
+  	text-align: center;
+	margin-left: 200px;
+}
+
+#buttonright {
+	display: block;
+  	width: 60%;
+  	border: none;
+  	background-color: #D8D8D8;
+  	padding: 14px 28px;
+  	font-size: 16px;
+  	cursor: pointer;
+  	text-align: center;
+	margin-left: 200px;
+	margin-top: 20px;
+}
